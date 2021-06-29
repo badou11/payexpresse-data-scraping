@@ -4,8 +4,6 @@ aiohttp==3.7.3
 aiohttp-socks==0.4.1
 alabaster==0.7.12
 altair==4.1.0
-anaconda-client==1.7.2
-anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
