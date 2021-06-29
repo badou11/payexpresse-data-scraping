@@ -4,7 +4,6 @@ aiohttp==3.7.3
 aiohttp-socks==0.4.1
 alabaster==0.7.12
 altair==4.1.0
-appdirs==1.4.4
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astor==0.8.1
 astroid==2.4.2
