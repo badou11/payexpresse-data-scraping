@@ -132,7 +132,7 @@ pyquery==1.4.3
 pyreadline==2.1
 pyrsistent==0.17.3
 PySocks==1.7.1
-pytest==0.0.0
+pytest==6.2.4
 python-dateutil==2.8.1
 pytz==2020.1
 pywin32==228
