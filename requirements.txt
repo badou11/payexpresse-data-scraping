@@ -176,7 +176,7 @@ toolz==0.11.1
 tornado==6.0.4
 traitlets==4.3.3
 transformers==4.3.2
-twint @ file:///C:/Users/Dell/Desktop/projet/Sentiment%20Analysis/streamlit/sentiment_analysis/twint/twint
+# twint @ file:///C:/Users/Dell/Desktop/projet/Sentiment%20Analysis/streamlit/sentiment_analysis/twint/twint
 tzlocal==2.1
 unicodecsv==0.14.1
 urllib3==1.26.3
