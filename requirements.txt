@@ -150,7 +150,7 @@ sacremoses==0.0.43
 schedule==1.0.0
 Send2Trash==1.5.0
 sentencepiece==0.1.95
-simplegeneric==5.0.0
+simplegeneric==0.5
 sip==5.0.0
 six==1.15.0
 smmap==3.0.5
